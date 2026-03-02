@@ -55,7 +55,7 @@ I'm a 2nd year SWE student at Carleton University. I love creating meaningful pr
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-# Some stats
+# 👀
 ![](https://github-readme-stats.vercel.app/api?username=Larrywg&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Larrywg&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Larrywg&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
