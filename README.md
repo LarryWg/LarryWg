@@ -13,7 +13,7 @@ I'm a 2nd year SWE student at Carleton University. I love creating meaningful pr
 🌱 Hobbies:
 - Hackathons (I love meeting new people and see how they use technology to create impactful projects)
 - Gym 🏋️
-- Hiking ⛰
+- Piano and Guitar
 - Sleep.
 
 
