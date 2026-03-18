@@ -2,7 +2,7 @@
 
 ## Hi I'm Larry 👋
 # 💫 About Me:
-I'm a 2nd year SWE student at Carleton University. I love creating meaningful projects and collaborating with others to build and produce creative and inspiring work.
+I'm a 3rd year SWE student at Carleton University. I love creating meaningful projects and collaborating with others to build and produce creative and inspiring work.
 
 - I found my passion in programming in grade 5 when I was introduced to Scratch and built a 2D first person shooting game.
   
